@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            // Sophie
+            // Sophie Jean
             Console.WriteLine("Hello, Sophie");
             Console.WriteLine("Computers are better than bio");
             Console.WriteLine("Comments are used because they make the program easy to read and follow");
